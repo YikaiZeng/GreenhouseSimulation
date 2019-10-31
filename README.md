@@ -8,4 +8,3 @@ and
 Binotto, Marco. Greenhouse climate model: an aid to estimate the influence of supplemental lighting on greenhouse climate. Diss. 2012.
 Certain Object of the model is removed to meet the local environment
 
-ModelM.m is the setting file for the simulation.
